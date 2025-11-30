@@ -46,5 +46,5 @@ This project provides a comprehensive **Java OOPs concepts presentation**. It ai
 ## 📫 Contact
 **Rekha Chowdary Kommineni**  
 - **Phone:** 7901266761  
-- **Email:** rekhachowdarykommineni@gmail.com  
+- **Email:** rekha.kchowdary@gmail.com    
 - **Location:** Mangalam, Tirupati – 517507
